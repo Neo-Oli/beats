@@ -10,6 +10,6 @@ var beats=(function () {
         ) /
         86.4
     );
-    return beats;
+    return "@"+beats;
 });
 if (typeof module !== 'undefined') { module.exports = beats; }
