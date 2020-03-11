@@ -1,0 +1,9 @@
+{
+  "name": "beats",
+  "version": "1.0.0",
+  "description": "Library for getting swatch internet time",
+  "main": "beats.js",
+  "repository": "git@github.com:Neo-Oli/beats.git",
+  "author": "Oliver Schmidhauser <oli@glow.li>",
+  "license": "GPL-3.0"
+}
